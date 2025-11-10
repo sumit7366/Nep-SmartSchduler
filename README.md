@@ -2,9 +2,11 @@
 
 ## 1. Executive Summary
 
-The NEP SmartScheduler is designed as a powerful scheduling solution built on a highly decoupled MERN (MongoDB, Express, React, Node.js) architecture. Its core innovation is integrating a scheduling algorithm and an AI Assistant to manage complex constraints mandated by India's National Education Policy (NEP) 2020.
+The NEP SmartScheduler was developed as part of a 72-hour hackathon challenge using the Sandbox Pro Code Editor — a company-based online coding platform (project link: https://code-sandbox.myanatomy.in/capstone-project/69101489fa9041ae8b3fc304).
 
-The current stage is characterized by a fully scaffolded system with operational Demo Mode APIs (index.js) and a complete Frontend Shell (App.js). This setup is crucial for continuous development and testing, ensuring that frontend components can be built and stabilized against predefined mock data before the full MongoDB and Solver integration.
+This project was built on a highly decoupled MERN (MongoDB, Express, React, Node.js) architecture. The key innovation lies in integrating a smart scheduling algorithm with an AI Assistant, designed to handle the complex scheduling constraints outlined in India’s National Education Policy (NEP) 2020.
+
+Within the 72-hour timeframe, the team successfully scaffolded the complete system — featuring operational Demo Mode APIs (index.js) and a fully functional Frontend Shell (App.js). This structure enables continuous frontend development and testing using predefined mock data, laying the groundwork for seamless future integration with MongoDB and the constraint-solving engine.
 
 | Architecture Layer | Core File/Component | Primary Function | Integration Status |
 |-------------------|---------------------|------------------|-------------------|
