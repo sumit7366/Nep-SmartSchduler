@@ -12,6 +12,13 @@ The current stage is characterized by a fully scaffolded system with operational
 | Backend Core | backEnd/index.js | Server initialization, Middleware, Demo API Endpoints, Admin Control | Stable (Mock API responses configured) |
 | Data Mock | Integrated into both App.js and index.js | Provides static data for teachers, subjects, and classrooms for DEMO Mode | Complete |
 
+## Project Screenshots
+
+### Screenshot 1
+![Screenshot 1](./1.png)
+
+### Screenshot 2
+![Screenshot 2](./2.png)
 ## 2. Frontend Core: The Application Shell (frontEnd/App.js)
 
 ### 2.1. Routing, Layout, and Dependencies
@@ -151,3 +158,4 @@ The current stage is characterized by a fully scaffolded system with operational
 3. AI Integration
 
 The NEP SmartScheduler project has established a robust MERN foundation with DEMO Mode functionality, ready for real-world integration of database, solver, and AI components.
+
